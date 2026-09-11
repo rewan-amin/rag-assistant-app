@@ -1,3 +1,5 @@
+🔴🔴 Make sure that when downloading the project ZIP file, the `.env.example` file is named exactly `.env.example`, not `env.example`. Otherwise, just rename it and add the `.` at the beginning.
+
 # 🌾 Grounded RAG Assistant Project (Plant Health & Cereal Crop Diseases)
 
 A production-grade, grounded Retrieval-Augmented Generation (RAG) assistant system designed to answer complex agricultural questions on plant health, cereal crop diseases, pests, and symptoms. Built with **FastAPI**, **ChromaDB**, **Model2Vec (SentenceTransformers)**, **Google Gemini 3.5 Flash**, and **Streamlit**.
@@ -126,7 +128,9 @@ This RAG assistant specializes in **Agricultural Science & Plant Pathology**, sp
 
 ### Step 1: Backend Setup & Run
 
-Open a terminal in the root `rag-assistant-project` directory:
+Download project ZIP file and open in an IDE
+
+🔴🔴Open a terminal in the root `rag-assistant-project` directory:
 
 ```bash
 ### Open a new terminal in the root `rag-assistant-project` directory:
@@ -155,7 +159,7 @@ cp .env.example .env   # (Windows: copy .env.example .env)
 
 ### Step 2: Frontend Setup & Run
 
-Open a new terminal in the root `rag-assistant-project` directory:
+🔴🔴Open a new terminal in the root `rag-assistant-project` directory:
 
 ```bash
 ### Open a new terminal in the root `rag-assistant-project` directory:
