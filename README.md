@@ -129,6 +129,7 @@ This RAG assistant specializes in **Agricultural Science & Plant Pathology**, sp
 Open a terminal in the root `rag-assistant-project` directory:
 
 ```bash
+### Open a new terminal in the root `rag-assistant-project` directory:
 cd backend
 
 # Create virtual environment
@@ -157,6 +158,7 @@ cp .env.example .env   # (Windows: copy .env.example .env)
 Open a new terminal in the root `rag-assistant-project` directory:
 
 ```bash
+### Open a new terminal in the root `rag-assistant-project` directory:
 cd frontend
 
 # Create virtual environment
