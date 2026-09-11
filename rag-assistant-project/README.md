@@ -1,3 +1,5 @@
+🔴🔴 Make sure that when downloading the project ZIP file, the .env.example file is named exactly .env.example, not env.example. Otherwise, just rename it and add the . at the beginning.
+
 # 🌾 Grounded RAG Assistant Project (Plant Health & Cereal Crop Diseases)
 
 A production-grade, grounded Retrieval-Augmented Generation (RAG) assistant system designed to answer complex agricultural questions on plant health, cereal crop diseases, pests, and symptoms. Built with **FastAPI**, **ChromaDB**, **Model2Vec (SentenceTransformers)**, **Google Gemini 3.5 Flash**, and **Streamlit**.
