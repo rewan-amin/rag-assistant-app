@@ -171,6 +171,9 @@ python -m venv .venv
 # Activate environment & install requirements
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 
+# Create .env from template
+cp .env.example .env   # (Windows: copy .env.example .env)
+
 # Run Streamlit frontend
 .\.venv\Scripts\streamlit.exe run app.py
 ```
