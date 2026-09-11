@@ -126,8 +126,7 @@ This RAG assistant specializes in **Agricultural Science & Plant Pathology**, sp
 
 ### Step 1: Backend Setup & Run
 
-Open a terminal in the root `rag-assistant-project` directory:
-
+IMPORTANT Open a terminal in the root `rag-assistant-project` directory:
 ```bash
 cd backend
 
@@ -154,8 +153,7 @@ cp .env.example .env   # (Windows: copy .env.example .env)
 
 ### Step 2: Frontend Setup & Run
 
-Open a new terminal in the root `rag-assistant-project` directory:
-
+IMPORTANT Open a new terminal in the root `rag-assistant-project` directory:
 ```bash
 cd frontend
 
